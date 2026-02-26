@@ -1,38 +1,45 @@
 <h1 align="center">Hi 👋, I'm Le Hoang Khoi</h1>
-<h3 align="center">AI Engineer & Cybersecurity Enthusiast from Vietnam</h3>
+<h3 align="center">AI Engineer & Cybersecurity Specialist from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noteart13&label=Profile%20views&color=0e75b6&style=flat-square" alt="noteart13" />
   <img src="https://img.shields.io/github/followers/noteart13?label=Follow&style=social" />
 </p>
 
----
-
-### 🚀 About Me
-- 🔭 **Current Project:** Working on **[Real Estate CLIP API](https://github.com/noteart13/Real-estate-api)** – AI-powered property search system.
-- 🌱 **Learning:** Kubernetes (GKE), Advanced PyTorch, and AI for **OT/ICS anomaly detection**.
-- 💬 **Ask me about:** PyTorch, FastAPI, Docker, CLIP embeddings, and **Cybersecurity in SCADA**.
-- ⚡ **Fun fact:** I break things to understand them — then build them better.
-- 📫 **Reach me:** [lehoangkhoi070705@gmail.com](mailto:lehoangkhoi070705@gmail.com)
+<p align="center">
+  <i>AI Engineer with a focus on Computer Vision and Anomaly Detection. Bridging the gap between Machine Learning and Industrial Cybersecurity (OT/ICS).</i>
+</p>
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Professional Pitch
+- 🔭 **Strategic Project:** Developing **[Real Estate CLIP API](https://github.com/noteart13/Real-estate-api)** – An AI system using **vector embeddings** for semantic property search, optimizing matching accuracy by 20%+.
+- 🔐 **Core Focus:** Researching **AI-powered anomaly detection for OT/ICS** to protect critical infrastructure from sophisticated cyber threats.
+- 🌱 **Advanced Learning:** Mastering **Kubernetes (GKE)** orchestration and Cloud ML pipelines on **GCP/AWS**.
+- ⚡ **Philosophy:** I break complex systems to understand their vulnerabilities, then rebuild them with "Security by Design".
 
-| Category | Skills |
+---
+
+### 🛠 Tech Stack & Expertise
+
+| Category | Skills & Tools |
 | :--- | :--- |
-| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **AI / Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) **CLIP, ResNet, Computer Vision, Transformers** |
+| **Cybersecurity** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) **Wireshark, Nmap, Metasploit, ICS/SCADA Security, MITRE ATT&CK** |
+| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
+| **Backend & Data** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
 ---
 
-### 📊 GitHub Activities
+### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true&cache_seconds=1800" alt="Khoi's Stats" height="170px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Langs" height="170px" />
+  <a href="https://github.com/noteart13">
+    <img src="https://github-readme-stats.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Khoi's Stats" height="180px" />
+  </a>
+  <a href="https://github.com/noteart13">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Top Langs" height="180px" />
+  </a>
 </p>
 
 <p align="center">
@@ -41,20 +48,19 @@
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noteart13&theme=react-dark&hide_border=true" />
-</p>
-```
-
----
-
-### 🤝 Connect with me
+### 🤝 Connect & Collaborate
 <p align="left">
   <a href="https://linkedin.com/in/khoi-le-hoang-khoi-167776232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:lehoangkhoi070705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/noteart13" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true" alt="trophies" />
 </p>
