@@ -41,10 +41,11 @@
 
 ---
 
-### 🏆 Trophies
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true&no-frame=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noteart13&theme=react-dark&hide_border=true" />
 </p>
+```
 
 ---
 
