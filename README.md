@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noteart13&label=Profile%20views&color=0e75b6&style=flat-square" alt="noteart13" />
-  <img src="https://img.shields.io/github/followers/noteart13?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/noteart13?label=Follow&style=social" alt="followers" />
 </p>
 
 ---
@@ -55,9 +55,9 @@
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/khoi-le-hoang-khoi-167776232" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/noteart13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
