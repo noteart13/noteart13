@@ -43,7 +43,7 @@
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&margin-w=15" alt="noteart13 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true&no-frame=true&margin-w=4" />
 </p>
 
 ---
