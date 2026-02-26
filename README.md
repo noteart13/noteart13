@@ -43,9 +43,7 @@
 
 ### 🏆 Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&margin-w=15" alt="noteart13 trophies" />
 </p>
 
 ---
