@@ -31,8 +31,12 @@
 ### 📊 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true&cache_seconds=1800" alt="Khoi's Stats" height="170px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Langs" height="170px" />
+  <a href="https://github.com/noteart13">
+    <img src="https://github-readme-stats.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Khoi's Stats" height="170px" />
+  </a>
+  <a href="https://github.com/noteart13">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Top Langs" height="170px" />
+  </a>
 </p>
 
 <p align="center">
@@ -43,9 +47,7 @@
 
 ### 🏆 Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&margin-w=15" alt="noteart13 trophies" />
 </p>
 
 ---
@@ -53,9 +55,9 @@
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/khoi-le-hoang-khoi-167776232" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/noteart13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
