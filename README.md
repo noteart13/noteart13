@@ -31,8 +31,8 @@
 ### 📊 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true&cache_seconds=1800" alt="Khoi's Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Langs" height="170px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true&cache_seconds=1800" alt="Khoi's Stats" height="170px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Langs" height="170px" />
 </p>
 
 <p align="center">
@@ -43,7 +43,9 @@
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true" alt="trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true" alt="trophies" />
+  </a>
 </p>
 
 ---
