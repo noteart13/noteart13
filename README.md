@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noteart13&label=Profile%20views&color=0e75b6&style=flat-square" alt="noteart13" />
-  <img src="https://img.shields.io/github/followers/noteart13?label=Follow&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/noteart13?label=Follow&style=social" />
 </p>
 
 ---
@@ -31,23 +31,19 @@
 ### 📊 GitHub Activities
 
 <p align="center">
-  <a href="https://github.com/noteart13">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true&custom_title=My%20Github%20Stats" alt="Khoi's Github Stats" />
-  </a>
-  <a href="https://github.com/noteart13">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Most Used Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true&cache_seconds=1800" alt="Khoi's Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Langs" height="170px" />
 </p>
 
 <p align="center">
-  <img width="850px" src="https://github-readme-streak-stats.herokuapp.com/?user=noteart13&theme=algolia&hide_border=true" alt="noteart13 streak" />
+  <img width="815px" src="https://github-readme-streak-stats.herokuapp.com/?user=noteart13&theme=algolia&hide_border=true" alt="noteart13 streak" />
 </p>
 
 ---
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&margin-w=15&no-bg=true" alt="noteart13 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true" alt="trophies" />
 </p>
 
 ---
@@ -55,9 +51,9 @@
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/khoi-le-hoang-khoi-167776232" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/noteart13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
