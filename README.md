@@ -30,23 +30,24 @@
 
 ### 📊 GitHub Activities
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/noteart13">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true&custom_title=My%20Github%20Stats" alt="Khoi's Github Stats" />
+  </a>
+  <a href="https://github.com/noteart13">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Most Used Languages" />
+  </a>
+</p>
 
-| **General Stats** | **Most Used Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=8" width="400px" /> |
-
-<img width="815px" src="https://github-readme-streak-stats.herokuapp.com/?user=noteart13&theme=algolia&hide_border=true" alt="noteart13 streak" />
-
-</div>
+<p align="center">
+  <img width="850px" src="https://github-readme-streak-stats.herokuapp.com/?user=noteart13&theme=algolia&hide_border=true" alt="noteart13 streak" />
+</p>
 
 ---
 
 ### 🏆 Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&margin-w=15&no-bg=true" alt="noteart13 trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&margin-w=15&no-bg=true" alt="noteart13 trophies" />
 </p>
 
 ---
