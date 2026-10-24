@@ -191,6 +191,20 @@ xychart-beta
 | Reliable Python APIs and backend services | Cloud-native ML pipelines and orchestration |
 | Practical computer vision systems | Threat-informed anomaly detection for OT/ICS |
 
+### 🧭 Roadmap
+
+```mermaid
+flowchart LR
+    N["📍 <b>Now</b><br/>Real Estate CLIP API<br/>PropertyMaster (~5.3M records)"]
+    X["🚀 <b>Next</b><br/>Kubernetes / GKE<br/>Cloud ML on GCP/AWS"]
+    R["🔬 <b>Research</b><br/>OT/ICS anomaly detection<br/>MITRE ATT&CK threat modeling"]
+    N --> X --> R
+
+    style N fill:#203a43,stroke:#36BCF7,color:#fff
+    style X fill:#2c5364,stroke:#36BCF7,color:#fff
+    style R fill:#6a1b9a,stroke:#fff,color:#fff
+```
+
 ---
 
 ## 📈 GitHub stats
