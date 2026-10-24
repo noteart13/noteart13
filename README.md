@@ -1,66 +1,105 @@
-<h1 align="center">Hi 👋, I'm Le Hoang Khoi</h1>
-<h3 align="center">Data Engineer from Vietnam 🇻🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noteart13&label=Profile%20views&color=0e75b6&style=flat-square" alt="noteart13" />
-  <img src="https://img.shields.io/github/followers/noteart13?label=Follow&style=social" />
-</p>
+<img src="./assets/hero.svg" alt="Le Hoang Khoi | Data Engineer • AI Systems • Cybersecurity" width="100%" />
 
-<p align="center">
-  <i>AI Engineer with a focus on Computer Vision and Anomaly Detection. Bridging the gap between Machine Learning and Industrial Cybersecurity (OT/ICS).</i>
-</p>
 
----
+Data Engineer  ·  AI/ML Builder  ·  OT/ICS Security Researcher
 
-### 🚀 Professional Pitch
-- 🔭 **Strategic Project:** Developing **[Real Estate CLIP API](https://github.com/noteart13/Real-estate-api)** – An AI system using **vector embeddings** for semantic property search, optimizing matching accuracy by 20%+.
-- 🔐 **Core Focus:** Researching **AI-powered anomaly detection for OT/ICS** to protect critical infrastructure from sophisticated cyber threats.
-- 🌱 **Advanced Learning:** Mastering **Kubernetes (GKE)** orchestration and Cloud ML pipelines on **GCP/AWS**.
-- ⚡ **Philosophy:** I break complex systems to understand their vulnerabilities, then rebuild them with "Security by Design".
+Building reliable data systems and practical AI — with security engineered in from day one.
 
----
+<a href="https://github.com/noteart13"><img src="./assets/badges/github.svg" alt="GitHub profile" height="45"></a>
+<a href="https://www.linkedin.com/in/khoi-le-hoang-khoi-167776232"><img src="./assets/badges/linkedin.svg" alt="Connect on LinkedIn" height="45"></a>
+<a href="mailto:lehoangkhoi070705@gmail.com"><img src="./assets/badges/email.svg" alt="Email Le Hoang Khoi" height="45"></a>
+</div>
 
-### 🛠 Tech Stack & Expertise
+👋 About me
+I'm Le Hoang Khoi, a data engineer from Vietnam working at the intersection of data platforms, machine learning, and cybersecurity.
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **AI / Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) **CLIP, ResNet, Computer Vision, Transformers** |
-| **Cybersecurity** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) **Wireshark, Nmap, Metasploit, ICS/SCADA Security, MITRE ATT&CK** |
-| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
-| **Backend & Data** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+I enjoy taking ideas from a prototype to a usable system: collecting and enriching data, building intelligent retrieval APIs, deploying services, and considering security throughout the engineering process.
+- Currently building: AI-enhanced search, data enrichment, and vector-based retrieval.
+- Researching: AI-driven anomaly detection for industrial OT/ICS environments.
+- Exploring: Kubernetes/GKE orchestration and cloud ML workflows on GCP/AWS.
+- Engineering mindset: Understand the system. Challenge its assumptions. Rebuild it securely.
+🧩 Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+🏘️ Real Estate CLIP API
+An AI-powered property intelligence API combining web data collection, CLIP image embeddings, and semantic retrieval.
 
-### 📊 Engineering Metrics
+Python · FastAPI · PyTorch · Redis · Docker · Kubernetes
 
-<p align="center">
-  <a href="https://github.com/noteart13">
-    <img src="https://github-readme-stats.vercel.app/api?username=noteart13&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Khoi's Stats" height="180px" />
-  </a>
-  <a href="https://github.com/noteart13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noteart13&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Top Langs" height="180px" />
-  </a>
-</p>
+Explore source code →
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="815px" src="https://github-readme-streak-stats.herokuapp.com/?user=noteart13&theme=algolia&hide_border=true" alt="noteart13 streak" />
-</p>
+🗃️ PropertyMaster — Data Enrichment
+Working with ~5.3 million Australian address records and Qdrant to enrich missing fields while preserving existing values.
 
----
+Data Quality · Vector DB · ETL · Australian G-NAF
 
-### 🤝 Connect & Collaborate
-<p align="left">
-  <a href="https://linkedin.com/in/khoi-le-hoang-khoi-167776232" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lehoangkhoi070705@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/noteart13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Ongoing project · repository not public
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noteart13&theme=algolia&column=7&no-bg=true" alt="trophies" />
-</p>
+🛡️ AI for Industrial Cybersecurity
+Research direction: machine learning-based anomaly detection for OT/ICS and SCADA environments, connecting network telemetry, threat modeling, and secure system design.
+
+Anomaly Detection · Industrial Networks · MITRE ATT&CK · Security by Design
+
+Research in progress
+</td>
+</tr>
+</table>
+
+🛠️ Technology stack
+Visual badges are bundled inside this repository — no external icon servers required.
+
+Data & Backend
+<img src="./assets/badges/python.svg" alt="Python" height="43"/>
+<img src="./assets/badges/fastapi.svg" alt="FastAPI" height="43"/>
+<img src="./assets/badges/qdrant.svg" alt="Qdrant" height="43"/>
+<img src="./assets/badges/redis.svg" alt="Redis" height="43"/>
+<img src="./assets/badges/mongodb.svg" alt="MongoDB" height="43"/>
+
+
+AI & Computer Vision
+<img src="./assets/badges/pytorch.svg" alt="PyTorch" height="43"/>
+<img src="./assets/badges/clip.svg" alt="CLIP" height="43"/>
+<img src="./assets/badges/cv.svg" alt="Computer Vision" height="43"/>
+<img src="./assets/badges/trans.svg" alt="Transformers" height="43"/>
+
+
+Cloud & DevOps
+<img src="./assets/badges/docker.svg" alt="Docker" height="43"/>
+<img src="./assets/badges/kubernetes.svg" alt="Kubernetes" height="43"/>
+<img src="./assets/badges/gcp.svg" alt="Google Cloud" height="43"/>
+<img src="./assets/badges/aws.svg" alt="AWS" height="43"/>
+<img src="./assets/badges/git.svg" alt="Git" height="43"/>
+
+
+Security & Research
+<img src="./assets/badges/linux.svg" alt="Linux" height="43"/>
+<img src="./assets/badges/wireshark.svg" alt="Wireshark" height="43"/>
+<img src="./assets/badges/nmap.svg" alt="Nmap" height="43"/>
+<img src="./assets/badges/security.svg" alt="OT / ICS" height="43"/>
+
+🎯 What I'm focused on
+Build	Explore
+Scalable data enrichment & quality checks	Efficient vector retrieval and embedding workflows
+Reliable Python APIs and backend services	Cloud-native ML pipelines and orchestration
+Practical computer vision systems	Threat-informed anomaly detection for OT/ICS
+
+
+🤝 Let's connect
+I'm interested in conversations about data engineering, applied AI, cloud infrastructure, and resilient industrial systems.
+- LinkedIn: linkedin.com/in/khoi-le-hoang-khoi-167776232
+- Email: lehoangkhoi070705@gmail.com
+- GitHub: github.com/noteart13
+<div align="center">
+
+<sub>Thoughtful engineering · Useful AI · Secure systems</sub>
+</div>
